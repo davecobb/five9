@@ -343,8 +343,8 @@ select {
 
 #profiles-button {
   background-color: #fff;
-  color: #292F33 !important;
-  border: 1px solid #CCCECE !important
+  color: #1c285f !important;
+  border: 1px solid #1c285f !important
 }
 
 .five9-action-btn {
@@ -380,7 +380,7 @@ select {
 }
 
 .five9-confirm-btn {
-  border: 1px solid #940B2D !important;
+  border: 1px solid #1c285f !important;
   background-color: #1c285f !important;
   color: #fff !important
 }
@@ -392,17 +392,17 @@ select {
 
 .five9-confirm-btn:focus:not(disabled) {
   outline: none;
-  box-shadow: 0 0 6px 0 #C50F3C !important
+  box-shadow: 0 0 6px 0 #1c285f !important
 }
 
 .five9-cancel-btn, .five9-aux-btn {
-  border: 1px solid #CCCECE !important;
+  border: 1px solid #1c285f !important;
   background-color: #fff !important;
   color: #292F33 !important
 }
 
 .five9-cancel-btn:hover:not(disabled), .five9-aux-btn:hover:not(disabled) {
-  background-color: #F7F8FA !important
+  background-color: #1c285f !important
 }
 
 .five9-cancel-btn:focus:not(disabled), .five9-aux-btn:focus:not(disabled) {

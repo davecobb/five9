@@ -299,12 +299,13 @@ body {
 }
 
 h1.ui-title {
+  background-color: #f9ce05 !important
   background: none;
-  color: #fff !important
+  color: #1b4389 !important
 }
 
 .ui-content>h2 {
-  color: #292F33 !important
+  color: #1b4389 !important
 }
 
 .ui-popup {
@@ -348,51 +349,51 @@ select {
 }
 
 .five9-action-btn {
-  border: 1px solid #1E6A91 !important;
-  background-color: #47c128 !important;
-  color: #fff !important;
+  border: 1px solid #f9ce05 !important;
+  background-color: #f9ce05 !important;
+  color: #1b4389 !important;
   font-size: 25px !important;
   line-height: .5
 }
 
 .five9-action-btn:hover:not(disabled) {
-  background-color: #53A4CD !important
+  background-color: #d5af04 !important
 }
 
 .five9-action-btn:focus:not(disabled) {
   outline: none;
-  box-shadow: 0 0 6px 0 #288DC1 !important
+  box-shadow: 0 0 6px 0 #f9ce05 !important
 }
 
 .five9-accept-btn {
-  border: 1px solid #1E6A91 !important;
-  background-color: #288DC1 !important;
-  color: #fff !important
+  border: 1px solid #f9ce05 !important;
+  background-color: #f9ce05 !important;
+  color: #1b4389 !important
 }
 
 .five9-accept-btn:hover:not(disabled) {
-  background-color: #53A4CD !important
+  background-color: #d5af04 !important
 }
 
 .five9-accept-btn:focus:not(disabled) {
   outline: none;
-  box-shadow: 0 0 6px 0 #288DC1 !important
+  box-shadow: 0 0 6px 0 #f9ce05 !important
 }
 
 .five9-confirm-btn {
-  border: 1px solid #940B2D !important;
-  background-color: #C50F3C !important;
-  color: #fff !important
+  border: 1px solid #f9ce05 !important;
+  background-color: #f9ce05 !important;
+  color: #1b4389 !important
 }
 
 .five9-confirm-btn:hover:not(disabled) {
-  background-color: #D80F49 !important;
-  color: #fff !important
+  background-color: #d5af04 !important;
+  color: #1b4389 !important
 }
 
 .five9-confirm-btn:focus:not(disabled) {
   outline: none;
-  box-shadow: 0 0 6px 0 #C50F3C !important
+  box-shadow: 0 0 6px 0 #f9ce05 !important
 }
 
 .five9-cancel-btn, .five9-aux-btn {

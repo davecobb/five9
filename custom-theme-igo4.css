@@ -299,8 +299,8 @@ body {
 }
 
 h1.ui-title {
-  background-color: #f9ce05 !important
-  color: #1b4389 !important
+  background-color: #f9ce05 !important;
+  color: #1b4389 !important;
 }
 
 .ui-content>h2 {
@@ -376,18 +376,18 @@ select {
 
 .five9-accept-btn:focus:not(disabled) {
   outline: none;
-  box-shadow: 0 0 6px 0 #f9ce05 !important
+  box-shadow: 0 0 6px 0 #f9ce05 !important;
 }
 
 .five9-confirm-btn {
   border: 1px solid #f9ce05 !important;
   background-color: #f9ce05 !important;
-  color: #1b4389 !important
+  color: #1b4389 !important;
 }
 
 .five9-confirm-btn:hover:not(disabled) {
   background-color: #d5af04 !important;
-  color: #1b4389 !important
+  color: #1b4389 !important;
 }
 
 .five9-confirm-btn:focus:not(disabled) {
@@ -398,21 +398,23 @@ select {
 .five9-cancel-btn, .five9-aux-btn {
   border: 1px solid #CCCECE !important;
   background-color: #fff !important;
-  color: #292F33 !important
+  color: #1b4389 !important;
 }
 
 .five9-cancel-btn:hover:not(disabled), .five9-aux-btn:hover:not(disabled) {
-  background-color: #F7F8FA !important
+  background-color: #f9ce05 !important;
+  color: #1b4389 !important
 }
 
 .five9-cancel-btn:focus:not(disabled), .five9-aux-btn:focus:not(disabled) {
   outline: none;
-  box-shadow: 0 0 6px 0 #288DC1 !important
+  box-shadow: 0 0 6px 0 #f9ce05 !important;
+  color: #1b4389 !important;
 }
 
 .five9-left-btn, .five9-right-btn {
   color: #fff !important;
-  opacity: .5
+  opacity: .5;
 }
 
 .five9-left-btn:hover:not(disabled), .five9-right-btn:hover:not(disabled) {
@@ -444,9 +446,9 @@ div.inner-container .display-time {
 }
 
 div.message-container-agent div.message-container {
-  background-color: #EFF1F4 !important;
-  color: #292F33 !important;
-  box-shadow: 0 1px 0 #CCCECE !important
+  background-color: #f9ce05 !important;
+  color: #1b4389 !important;
+  box-shadow: 0 1px 0 #f9ce05 !important
 }
 
 div.message-container-agent div.message-container a {

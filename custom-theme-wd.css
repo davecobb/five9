@@ -348,8 +348,8 @@ select {
 }
 
 .five9-action-btn {
-  border: 1px solid #1E6A91 !important;
-  background-color: #47c128 !important;
+  border: 1px solid #1c285f !important;
+  background-color: #1c285f !important;
   color: #fff !important;
   font-size: 25px !important;
   line-height: .5
@@ -361,12 +361,12 @@ select {
 
 .five9-action-btn:focus:not(disabled) {
   outline: none;
-  box-shadow: 0 0 6px 0 #288DC1 !important
+  box-shadow: 0 0 6px 0 #1c285f !important
 }
 
 .five9-accept-btn {
   border: 1px solid #1E6A91 !important;
-  background-color: #288DC1 !important;
+  background-color: #1c285f !important;
   color: #fff !important
 }
 
@@ -376,12 +376,12 @@ select {
 
 .five9-accept-btn:focus:not(disabled) {
   outline: none;
-  box-shadow: 0 0 6px 0 #288DC1 !important
+  box-shadow: 0 0 6px 0 #1c285f !important
 }
 
 .five9-confirm-btn {
   border: 1px solid #940B2D !important;
-  background-color: #C50F3C !important;
+  background-color: #1c285f !important;
   color: #fff !important
 }
 
@@ -407,7 +407,7 @@ select {
 
 .five9-cancel-btn:focus:not(disabled), .five9-aux-btn:focus:not(disabled) {
   outline: none;
-  box-shadow: 0 0 6px 0 #288DC1 !important
+  box-shadow: 0 0 6px 0 #1c285f !important
 }
 
 .five9-left-btn, .five9-right-btn {
@@ -424,7 +424,7 @@ select {
 }
 
 .five9-link-btn {
-  color: #288DC1 !important
+  color: #1c285f !important
 }
 
 .form-control input {
@@ -451,11 +451,11 @@ div.message-container-agent div.message-container {
 
 div.message-container-agent div.message-container a {
   font-weight: normal !important;
-  color: #288DC1 !important
+  color: #1c285f !important
 }
 
 div.message-container-client div.message-container {
-  background-color: #288DC1 !important;
+  background-color: #1c285f !important;
   color: #fff !important;
   box-shadow: 0 1px 0 #1E6A91 !important
 }
@@ -488,7 +488,7 @@ div.typing {
 
 #conversation-page #send-button {
   background: transparent !important;
-  color: #288DC1 !important
+  color: #1c285f !important
 }
 
 #conversation-page #send-button:focus:not(disabled) {
@@ -517,7 +517,7 @@ div.typing {
 }
 
 .provider-nine {
-  color: #288DC1 !important;
+  color: #1c285f !important;
   font-weight: bold !important
 }
 
@@ -531,7 +531,7 @@ div.typing {
 
 #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item {
   background: white !important;
-  color: #288DC1 !important
+  color: #1c285f !important
 }
 
 #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item div.vivr-transfer-name {
@@ -563,7 +563,7 @@ div.typing {
 }
 
 .hover-allowed #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item:hover {
-  background: #288DC1 !important;
+  background: #1c285f !important;
   color: white !important
 }
 

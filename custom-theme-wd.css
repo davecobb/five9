@@ -402,7 +402,8 @@ select {
 }
 
 .five9-cancel-btn:hover:not(disabled), .five9-aux-btn:hover:not(disabled) {
-  background-color: #1c2854 !important
+  background-color: #1c285f !important;
+  color: #fff;
 }
 
 .five9-cancel-btn:focus:not(disabled), .five9-aux-btn:focus:not(disabled) {
@@ -445,7 +446,7 @@ div.inner-container .display-time {
 
 div.message-container-agent div.message-container {
   background-color: #EFF1F4 !important;
-  color: #292F33 !important;
+  color: #1c285f !important;
   box-shadow: 0 1px 0 #CCCECE !important
 }
 

@@ -299,7 +299,7 @@ body {
 }
 
 h1.ui-title {
-  background: #1c285f;
+  background: #1c285f !important;
   color: #fff !important
 }
 

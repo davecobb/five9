@@ -403,7 +403,7 @@ select {
 
 .five9-cancel-btn:hover:not(disabled), .five9-aux-btn:hover:not(disabled) {
   background-color: #1c285f !important;
-  color: #fff;
+  color: #fff !important;
 }
 
 .five9-cancel-btn:focus:not(disabled), .five9-aux-btn:focus:not(disabled) {
@@ -430,6 +430,7 @@ select {
 
 .form-control input {
   color: black !important
+  border: 1px solid #ced4da !important;
 }
 
 .form-control>label:not(.validation-error) {

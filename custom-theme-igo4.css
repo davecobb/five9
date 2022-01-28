@@ -300,7 +300,6 @@ body {
 
 h1.ui-title {
   background-color: #f9ce05 !important
-  background: none;
   color: #1b4389 !important
 }
 
@@ -594,16 +593,4 @@ div.typing {
 
 .hover-allowed #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item:hover div.channel-video {
   background-image: url("../../images/channels/channel-video-hover-default.png")
-}
-
-.five9-chat-button {
-  border: 1px solid #fc03a5 !important;
-  background: #fc03a5 !important;
-  color: #fc03a5 !important;
-}
-
-.five9-action-btn {
-  border: 1px solid #fc03a5 !important;
-  background: #fc03a5 !important;
-  color: #fc03a5 !important;
 }

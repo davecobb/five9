@@ -356,22 +356,22 @@ select {
 }
 
 .five9-action-btn:hover:not(disabled) {
-  background-color: #1c285f !important
+  background-color: #1c2854 !important
 }
 
 .five9-action-btn:focus:not(disabled) {
   outline: none;
-  box-shadow: 0 0 6px 0 #1c285f !important
+  box-shadow: 0 0 6px 0 #1c2854 !important
 }
 
 .five9-accept-btn {
-  border: 1px solid #1E6A91 !important;
+  border: 1px solid #1c285f !important;
   background-color: #1c285f !important;
   color: #fff !important
 }
 
 .five9-accept-btn:hover:not(disabled) {
-  background-color: #1c285f !important
+  background-color: #1c2854 !important
 }
 
 .five9-accept-btn:focus:not(disabled) {
@@ -386,7 +386,7 @@ select {
 }
 
 .five9-confirm-btn:hover:not(disabled) {
-  background-color: #1c285f !important;
+  background-color: #1c2854 !important;
   color: #fff !important
 }
 
@@ -402,7 +402,7 @@ select {
 }
 
 .five9-cancel-btn:hover:not(disabled), .five9-aux-btn:hover:not(disabled) {
-  background-color: #1c285f !important
+  background-color: #1c2854 !important
 }
 
 .five9-cancel-btn:focus:not(disabled), .five9-aux-btn:focus:not(disabled) {
